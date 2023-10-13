@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"LaunchpadPlugin": {
+			"component": "com.plugin",
+			"url": "../../../../../"
+		}
+	}
+}
